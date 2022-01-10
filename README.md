@@ -6,7 +6,7 @@ This website template provides great practice making MODERN LOOKING websites. Th
 *Structure*
 - HTML5 was used (headers, div, sections, anchor tags) 
 
-*Sytle*
+*Style*
  - Plain CSS3 with no framworks.
  - Images were gotten from Unsplash.com
  
